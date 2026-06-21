@@ -24,7 +24,7 @@ A classic 2-player Pong game built with Python and [Pygame](https://www.pygame.o
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/pong-game.git
+git clone https://github.com/bhavani-builds/pong-game.git
 cd pong-game
 
 # 2. (Optional but recommended) create a virtual environment
